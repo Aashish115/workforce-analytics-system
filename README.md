@@ -3,6 +3,7 @@ Overview
 
 This project is an end-to-end business analytics solution designed to help management gain visibility into workforce costs, employee performance, and departmental revenue contribution. The system consolidates fragmented data into a structured analytics pipeline to support data-driven decision-making.
 
+
 Business Problem
 
 Management lacks a consolidated view of workforce data due to information being scattered across multiple spreadsheets. This leads to reactive decision-making, inefficient resource allocation, and limited insight into operational performance.
@@ -14,6 +15,7 @@ Integrate workforce, performance, and revenue data into a single analytical syst
 Identify cost inefficiencies and performance gaps across departments
 
 Enable management to make informed workforce optimisation decisions
+
 
 Key Business Questions
 
@@ -27,7 +29,8 @@ Are there signs of overstaffing or inefficiency in certain departments?
 
 What actionable insights can management use to improve productivity?
 
-🛠️ Tech Stack
+
+Tech Stack
 
 Python (pandas) – Data cleaning and transformation
 
@@ -36,6 +39,7 @@ SQL – Data modelling and analytical queries
 Power BI – Interactive dashboards and visual insights
 
 Excel – Initial data exploration and validation
+
 
 Project Structure
 workforce-analytics-system/
@@ -46,6 +50,8 @@ workforce-analytics-system/
 ├── powerbi/     # Power BI dashboard files
 ├── docs/        # Business problem, assumptions, and documentation
 └── README.md
+
+
 
 Dashboards & Insights
 
@@ -59,6 +65,8 @@ Revenue contribution by department
 
 Insights focus on identifying inefficiencies, performance gaps, and opportunities for workforce optimisation.
 
+
+
 Key Learnings
 
 Translating business problems into analytical questions
@@ -69,6 +77,8 @@ Writing SQL queries to support business decision-making
 
 Communicating insights clearly through dashboards
 
+
+
 Future Improvements
 
 Automate data refresh using scheduled pipelines
@@ -76,6 +86,8 @@ Automate data refresh using scheduled pipelines
 Incorporate time-based trend analysis
 
 Add predictive metrics for workforce planning
+
+
 
 Author
 
