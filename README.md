@@ -1,3 +1,7 @@
+📊 Dashboard Preview
+![Executive Overview](images/dashboard1.png)
+![Employee Analysis](images/dashboard2.png)
+
 Workforce Analytics System
 Overview
 
